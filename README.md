@@ -101,4 +101,4 @@ GNU GPL v3.0 — free to use, modify, and distribute.
 
 ---
 
-*Magos Digital Studio*
+*Magos Digital Studio* www.magosdigitalstudio.com
