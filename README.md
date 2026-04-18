@@ -69,10 +69,10 @@ Magos DWP Editor ──► Magos Pose Retargeter ──► Magos DWP Renderer �
 Magos DWP Renderer ──► pose_keypoints (POSE_KEYPOINT) ──► DWPose Preprocessor Visualizer ──► ControlNet
 ```
 
-### SCAIL / LTX-Video / UniAnimate
+###  LTX-Video / UniAnimate
 
 ```
-Magos DWP Renderer ──► pose_images (IMAGE) ──► WanVideoAddSCAILPoseEmbeds / LTX pose node
+Magos DWP Renderer ──► pose_images (IMAGE) ──► LTX pose node
 ```
 
 `pose_images` is a standard IMAGE tensor — no conversion needed for any of these pipelines.
@@ -97,7 +97,7 @@ This feature is included for research and experimentation. It is not required fo
 
 ## License
 
-MIT — free to use, modify, and distribute.
+GNU GPL v3.0 — free to use, modify, and distribute.
 
 ---
 
